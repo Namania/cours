@@ -1,0 +1,21 @@
+:root {
+    /* Colors */
+    --color-primary: #262736;
+    --color-secondary: #1e1f2c;
+}
+
+.bg-p {
+    background-color: var(--color-primary);
+}
+
+.bg-s {
+    background-color: var(--color-secondary);
+}
+
+.w-300 {
+    width: 300px;
+}
+
+.h-400 {
+    height: 400px;
+}
